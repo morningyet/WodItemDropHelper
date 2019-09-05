@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html  xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<br/>
+<br/>
+<br/>
+    <a href="/start" th:href="@{/start}">start!</a>
+<br/>
+<br/>
+<br/>
+
+
+
+    <form action="/select" th:action="@{/select}">
+
+        选择 英雄:   <input type="text" name="heroNum" placeholder="01"><br/>
+        选择 地城:   <input type="text" name="dungeonsName" placeholder="结局"><br/>
+        选择 支线:   <input type="text" name="branch" placeholder="高山"><br/>
+        <button type="submit">提交查询</button>
+
+    </form>
+
+</body>
+</html>

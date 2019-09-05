@@ -1,0 +1,20 @@
+server:
+  port: 8082
+
+spring:
+  datasource:
+    username: root
+    password: admin
+    url: jdbc:mysql://localhost:3306/wod
+#    tomcat:
+#      validation-query-timeout: 3000000
+#      suspect-timeout: 3000000
+#logging.level.com.spring.jiminshiro.mapper=debug
+
+
+
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
+
+
