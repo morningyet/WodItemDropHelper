@@ -1,0 +1,91 @@
+[quote=超穷基数ALEPH@Zhao][size=17][b][*]天空之城[/b][/size]
+
+Lv1
+[item:幻象聚焦镜]
+[item:玫瑰雕花酒壶]
+[item:荆棘之伤] (+漂泊客)
+[item:荆棘之伤（复制品）]
+[item:梦幻水晶碎片]  (+[item:幻兽的水晶心脏])
+携带12×[item: "梦幻水晶碎片" color=lime] & [item: "妖精的友谊，向日葵徽章" color=lime] & [item: "萨索娜，花妖精之女王" color=lime] 触发挑战
+[post:15901620|挑战掉落列表]
+
+Lv2
+[item:木质的楚瓦甲虫坠子]
+[item:矮人眼罩]
+飞行线(携带[item: "S.P.Q.R.特工的徽章(大众版)" color=lime] or [item: "月长石滑翔机" color=lime]触发)
+[item:刻有大象的萨瓦拉什烟斗] 	
+[item:卡克斯的真正战斗法杖]
+
+Lv3
+[item:乐谱“无心之城”]
+[item:星眼]
+[item:深红丝绸披风]
+[item:黑白面具]
+[item:精灵石雕像（公牛）]等等精灵石(13)
+飞行线
+[item:意志侵蚀臂章] 	
+[item:沙做的小猫]
+
+Lv4
+[item:南方壁垒]
+[item:卫队披风] 	
+[item:圣域颂歌]
+
+Lv5
+[item:Kal-Logran的铍制眼镜]
+[item:海尔茨堡公爵的空间袋]
+[item:艾利瑞玛的节疮石]
+
+Lv6
+[item:Visaimal的锦带] 	
+
+Lv7
+[item:崭新的金币](+[item: 饱经风霜的金币] [X])
+
+Lv8
+携带[item: "荆棘之伤" color=lime] or [item: "荆棘之伤（复制品）" color=lime] 触发新的剧情和战斗 不可重复
+[item:幻兽的水晶心脏] 
+[item:龙心之敌] (+ [item:龙之火绳枪] [X]) [color=red]new[/color]
+携带[item: "阿杜尔的日记" color=lime] 触发新的剧情
+[item:镜绒手套] 
+携带[item: "幻象聚焦镜" color=lime] 触发新的剧情和战斗 可重复触发
+[item:Cirrutah的幻影披风] 	
+[item:Cirrutah的幻影长袍]
+[item:Cirrutah的面纱] 
+[item:永恒十二面体]
+[item:永葆青春药剂]
+[item:镜绒手套]
+
+LV9
+[item:幻象聚焦镜]
+[item:褪色的纸玫瑰]
+[item: 法莎莉雅的绝对防御圈α]        
+[item: 法莎莉雅的绝对防御圈αⅡ][/td]      
+[item: 法莎莉雅的绝对防御圈β]        
+[item: 法莎莉雅的绝对防御圈βⅡ][/td]     
+[item: 法莎莉雅的绝对防御圈γ]        
+[item:法莎莉雅的绝对防御圈γⅡ][/td]     
+[item: 法莎莉雅的丰饶α]           
+[item: 法莎莉雅的审判日α][/td]         
+[item: 法莎莉雅的丰饶β]           
+[item: 法莎莉雅的审判日β][/td]         
+[item: 法莎莉雅的丰饶γ]           
+[item:法莎莉雅的终结γ]
+[item: 法莎莉雅的圣翼α]           
+[item: 法莎莉雅的天空主宰α]
+[item: 法莎莉雅的圣翼β]           
+[item: 法莎莉雅的天空主宰β]
+[item: 法莎莉雅的圣翼γ]           
+[item: 法莎莉雅的启示录γ] 
+[item: 法莎莉雅的七色炙焰环α]        
+[item: 法莎莉雅的永恒冰弹α][/td]        
+[item: 法莎莉雅的七色炙焰环β]        
+[item: 法莎莉雅的永恒冰弹β][/td]        
+[item: 法莎莉雅的七色炙焰环γ]        
+[item: 法莎莉雅的永恒冰弹γ][/td]   
+[item: 法莎莉雅的冷酷热诚α]         
+[item: 法莎莉雅的幻影之舞α][/td]        
+[item: 法莎莉雅的冷酷热诚β]         
+[item: 法莎莉雅的幻影之舞β][/td]        
+[item: 法莎莉雅的冷酷热诚γ]         
+[item: 法莎莉雅的幻影之舞γ][/td]        

@@ -90,14 +90,14 @@ public class TestController {
 
 
     /**
-     * 用处生成 mysql  lastreport初始文件
+     * 用处生成 mysql  lastreport 表初始文件
      * @return
      */
     @ResponseBody
     @RequestMapping("/reportget")
     public String reportListGet(){
 
-        MyHttpClient myHttpClient = new MyHttpClient();
+
         CloseableHttpResponse response = null;
         List<ReportInfo> reportInfos = new ArrayList<>();
         MyHero myHero;
@@ -125,19 +125,6 @@ public class TestController {
             System.out.println(x);
 
         }
-
-
-
-
-        //模拟登陆,获取Cookies
-
-
-
-
-
-
-
-
 
 
         return "success";

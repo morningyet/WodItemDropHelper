@@ -45,6 +45,10 @@ public class CrawlerController {
     @Autowired
     CrawlerServer crawlerServer;
 
+    /**
+     * 主要功能:完成物品掉落查询
+     * @return
+     */
     @ResponseBody
     @RequestMapping("/start")
     public String start(){

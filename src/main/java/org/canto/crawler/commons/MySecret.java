@@ -6,5 +6,5 @@ package org.canto.crawler.commons;
  */
 public class MySecret {
     public static final String MYUSERNAME = "morningyet";
-    public static final String MYPASSWORD = "123456789";
+    public static final String MYPASSWORD = "12345678";
 }

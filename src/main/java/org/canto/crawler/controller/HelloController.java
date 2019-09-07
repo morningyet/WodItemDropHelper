@@ -10,11 +10,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
+ * 该类为
  * 测试用
  * @author morningyet
  * @create 2019-09-03 19:52
  */
-
 @Controller
 public class HelloController {
 

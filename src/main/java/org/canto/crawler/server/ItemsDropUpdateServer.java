@@ -90,6 +90,7 @@ public class ItemsDropUpdateServer {
 
     /**
      * 根据战报更新物品掉落的信息
+     *
      * @param itemDropMapList
      * @param myHero
      * @return
@@ -120,17 +121,17 @@ public class ItemsDropUpdateServer {
             else {
                 for (String itemsName : dropList) {
 
-                    System.out.println(itemsName);
+                    //System.out.println(itemsName);
 
                     ItemDropInfo itemDropInfo = itemDropMapper.selectItemDropInfoByName(itemsName, dungeonsName);
 
                     if (itemDropInfo == null) continue;
 
-                    System.out.println(itemDropInfo.toString());
+                    System.out.println("物品录入后:" + itemDropInfo.toString());
 
                     itemDropInfo.addHerorecord(myHero);
 
-                    System.out.println(itemDropInfo.toString());
+                    System.out.println("物品录入后:" + itemDropInfo.toString());
 
                     line += itemDropMapper.updateItemDropInfo(itemDropInfo);
                 }

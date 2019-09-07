@@ -27,6 +27,10 @@ public class SelectController {
     @Autowired
     LastReportMapper lastReportMapper;
 
+    /*
+
+        查询数据库对应的物品信息,返回bbcode字符串,可以直接黏贴到论坛.
+     */
     @ResponseBody
     @RequestMapping("/select")
     public StringBuilder itemSelect(@Param("heroNum") Integer heroNum,

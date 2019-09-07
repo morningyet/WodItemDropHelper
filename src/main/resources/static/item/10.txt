@@ -1,0 +1,134 @@
+[quote=超穷基数ALEPH@Zhao]薇丝帕与法佩罗
+
+[size=17][b][*]薇丝帕与法佩罗[/b][/size]
+LV1
+[item:一个假偶挂饰（栩栩如生的）]等4级诱饵
+[item:芝汉的动物世界第一册] 
+[item:芝汉的动物世界第二册]
+[item:守护者的利爪]
+[item:所那迈尔的口哨]
+
+
+LV3
+[item:神赐匕首]
+
+
+LV4
+[item:维尔克的双角头盔]
+
+
+LV6
+[item:晶火提笼]
+
+(携带华丽的红宝石)
+[item:镶嵌过的双色石链]
+
+
+LV7
+[item:光辉刻印之戒]
+[item:巨鹰刻印之戒]
+[item:狂犬刻印之戒]
+[item:白狼刻印之戒]
+[item:鲨齿箭束]
+[item:黑白束石杖]
+[item:小型光之结界]
+[item:灵铠召唤：巨人之铠]
+
+(携带华丽的红宝石 )
+[item:内芙妮的女武神翼盔]
+[item:内芙妮的女武神胸甲]
+[item:内芙妮的女武神之靴]
+[item:内芙妮的女武神护手]
+[item:内芙妮的女武神裙甲]
+
+[item:卡米娅的炎羽头环]
+[item:卡米娅的圣灵之服]
+[item:卡米娅的炽蓝腰带]
+[item:卡米娅的暮光披风]
+[item:卡米娅的翼梦之靴]
+[item:卡米娅的杀戮戒曲]
+
+
+[item:七剑战歌 冰风舞翼之歌 ]
+[item:七剑战歌 北风呼啸之歌 ]
+[item:七剑战歌 原初魔焰之歌 ]
+[item:七剑战歌 天劫红雾之歌 ]
+[item:七剑战歌 天国星坠之歌 ]
+[item:七剑战歌 天极地限之歌 ]
+[item:七剑战歌 天罚罪赦之歌 ]
+[item:七剑战歌 屠龙勇士之歌 ]
+[item:七剑战歌 帕蓝提卡之歌 ]
+[item:七剑战歌 帝国荣耀之歌 ]
+[item:七剑战歌 提利亚斯之歌 ]
+[item:七剑战歌 斯卡兰提之歌 ]
+[item:七剑战歌 湖中仙女之歌 ]
+[item:七剑战歌 灾祸献祭之歌 ]
+[item:七剑战歌 红莲圣女之歌 ]
+[item:七剑战歌 苍红劫火之歌 ]
+
+
+[item:香克利的死神披风] 
+[item:夜天之火]
+[item:红雾之王]
+[item:斯宾格斯的领域之衣]
+[item:旋律护腕]
+[item:暗银残灭]
+[item:黄金残光] 
+[item:灵铠召唤：龙骑之铠]  
+[item:内芙妮的水晶海星]
+[item:星奏]
+[item:月咏]
+[item:相遇]
+[item:离别]
+
+
+
+LV8
+[item:圣光十字剑''天罚''] (剧情杀算失败, 无法获得物品掉落, 除非你能打死)
+[item:圣光十字剑''罪赦''] (剧情杀算失败, 无法获得物品掉落, 除非你能打死)
+
+(携带神赐的匕首)
+[item:圣光十字剑''天罚'']
+[item:圣光十字剑''罪赦'']
+[item:庇护者]
+[item:灵铠召唤：明镜之铠]
+[item:神圣之杯]
+
+(携带华丽的红宝石)
+[item:冥河守卫]
+[item:永恒深度]
+[item:灵铠召唤：炼狱之铠]
+[item:燃晶]
+[item:自然霜鸣]
+[item:霜雪之心]
+
+
+
+LV9(携带燃晶 & 华丽红宝石)
+[item:原初物质之刃]
+[item:圣鹰之眼]
+[item:幽光刃]
+[item:炎舞斗士]
+
+
+[item:亚莉克希亚的必要之恶]
+[item:亚莉克希亚的无序法则]
+[item:亚莉克希亚的原罪理论]
+[item:亚莉克希亚的矛盾概念]
+[item:亚莉克希亚的混乱逻辑]
+[item:神罚骑士的激昂]
+[item:神罚骑士的誓词]
+[item:神罚骑士的力量]
+[item:神罚骑士的进军]
+[item:神罚骑士的践踏]
+
+[item:破云靴][color=red]new![/color]
+[item:蚀魔咒刃][color=red]new![/color]
+[item:阿兰多特的闪银枪][color=red]new![/color]
+[item:阿卜杜拉·阿尔冯斯·哈兹莱德的宝物][color=red]new![/color]
+[item:飞龙之印][color=red]new![/color]
+[item:帕西莫得之禁咒书][color=red]new![/color]
+[item:恩尼格玛战甲][color=red]new![/color]
+[item:圣光精灵][color=red]new![/color]
+[item:希望之光][color=red]new![/color]
+[item:亚蒂娅的永梦蝴蝶][color=red]new![/color][/quote]

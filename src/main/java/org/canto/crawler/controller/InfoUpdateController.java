@@ -17,7 +17,7 @@ public class InfoUpdateController {
 
 
     /**
-     * 用于生成mySQL数据库列表文件
+     * 用于生成mySQL数据库item_drop列表文件
      * @return
      */
     @ResponseBody
