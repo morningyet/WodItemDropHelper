@@ -36,4 +36,7 @@ public interface ItemDropMapper {
     @Select("select * from items_drop where dungeons_name = #{dungeonsName}")
     public List<ItemDropInfo> selectItemDropInfoByDungeonsName(@Param("dungeonsName") String dungeonsName);
 
+    @Select("select * from items_drop where dungeons_name = #{dungeonsName} and branch = #{branch}")
+    public List<ItemDropInfo> selectItemDropInfoByDungeonsNameAndBranch(@Param("dungeonsName") String dungeonsName,@Param("branch") String branch);
+
 }

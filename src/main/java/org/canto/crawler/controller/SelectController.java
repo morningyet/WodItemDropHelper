@@ -41,7 +41,7 @@ public class SelectController {
         System.out.println("选择查询英雄" + myHero.getDesc());
 
         LastReportInfo lastReportInfo = lastReportMapper.selectReportByHeroId(myHero.getId());
-        List<ItemDropInfo> itemDropInfos = itemDropMapper.selectItemDropInfoByDungeonsName(dungeonsName);
+        List<ItemDropInfo> itemDropInfos = itemDropMapper.selectItemDropInfoByDungeonsNameAndBranch(dungeonsName,branch);
 
         StringBuilder str = new StringBuilder()
                 .append("北京第三区交通委提醒您：").append("<br/>")

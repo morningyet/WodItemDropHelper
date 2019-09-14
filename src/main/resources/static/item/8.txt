@@ -18,7 +18,7 @@ LV2
 LV3
 [item:登山装备](通关一次)
 [item:简尼沙拉斯天卓图尼卡莫里沙拉斯立比萨述士](+装有纸片的瓶子 [X])
-[item:食用伞菌]
+
 
 LV4
 [item:食用伞菌] 	
@@ -42,10 +42,10 @@ LV5
 LV6
 携带[item:"登山装备" color=lime] & [item:"简尼沙拉斯天卓图尼卡莫里沙拉斯立比萨述士" color=lime 触发隐藏战斗 可重复触发  队伍传奇等级≥120级本层剧情略有不同
 [item:帕沙雷之星]
-[item:抄本残页(夜影蝎尾狮)] [color=red] new [/color]
-[item:神秘的护身符]
-[item:翼蜥之眼]
-[item:翼蜥皮][/spoiler]
+
+
+
+
 
 携带[item:"登山装备" color=lime] 触发隐藏战斗 可重复触发 
 [item:抄本残页(夜影蝎尾狮)] [color=red] new [/color]

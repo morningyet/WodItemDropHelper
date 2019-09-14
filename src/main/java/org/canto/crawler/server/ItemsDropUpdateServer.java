@@ -121,7 +121,7 @@ public class ItemsDropUpdateServer {
             else {
                 for (String itemsName : dropList) {
 
-                    //System.out.println(itemsName);
+                    System.out.println(itemsName);
 
                     ItemDropInfo itemDropInfo = itemDropMapper.selectItemDropInfoByName(itemsName, dungeonsName);
 
